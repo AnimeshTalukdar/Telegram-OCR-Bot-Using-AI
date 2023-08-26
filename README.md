@@ -1,6 +1,9 @@
 # Telegram Chat Bot with AI
 This is a Telegram chat bot that utilizes AI models for chat interactions and image processing. The bot can handle text messages, process images, and provide responses based on AI-generated content.
 
+## Demo
+Try it out at @ocrgptbot on Telegram
+
 ## Features
 Responds to text messages with AI-generated content.
 Processes images and provides responses based on the content of the images.
